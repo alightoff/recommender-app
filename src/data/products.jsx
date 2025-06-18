@@ -119,35 +119,35 @@ export const products = [
     id: "product017",
     name: "SSD Kingston NV2 1TB",
     price: 7490,
-    tags: ["накопитель", "kingston", "до_8000", "nvme", "1tb"],
+    tags: ["накопитель", "kingston", "до_8000", "nvme", "1tb", "пк"],
     image: images["../assets/products/kingston_nv2.jpg"]
   },
   {
     id: "product018",
     name: "Видеокарта ASUS Dual GeForce RTX 4060",
     price: 39990,
-    tags: ["видеокарта", "asus", "до_40000", "rtx4060", "geforce"],
+    tags: ["видеокарта", "asus", "до_40000", "rtx4060", "geforce", "пк"],
     image: images["../assets/products/asus_rtx4060.jpg"]
   },
   {
     id: "product019",
     name: "Видеокарта MSI GeForce RTX 4070",
     price: 72990,
-    tags: ["видеокарта", "msi", "до_75000", "rtx4070", "geforce"],
+    tags: ["видеокарта", "msi", "до_75000", "rtx4070", "geforce", "пк"],
     image: images["../assets/products/msi_rtx4070.jpg"]
   },
   {
     id: "product020",
     name: "Клавиатура Logitech MX Keys",
     price: 13990,
-    tags: ["клавиатура", "logitech", "до_15000", "беспроводная", "подсветка"],
+    tags: ["клавиатура", "logitech", "до_15000", "беспроводная", "подсветка", "пк"],
     image: images["../assets/products/logitech_mx_keys.jpg"]
   },
   {
     id: "product021",
     name: "Мышь Logitech MX Master 3S",
     price: 10990,
-    tags: ["мышь", "logitech", "до_12000", "беспроводная", "тихие_кнопки"],
+    tags: ["мышь", "logitech", "до_12000", "беспроводная", "тихие_кнопки", "пк"],
     image: images["../assets/products/logitech_mx_master3s.jpg"]
   },
   {
@@ -168,21 +168,21 @@ export const products = [
     id: "product024",
     name: "Внешний HDD Seagate 2TB",
     price: 6590,
-    tags: ["накопитель", "seagate", "до_7000", "hdd", "2tb", "usb"],
+    tags: ["накопитель", "seagate", "до_7000", "hdd", "2tb", "usb", "пк"],
     image: images["../assets/products/seagate_2tb.jpg"]
   },
   {
     id: "product025",
     name: "Маршрутизатор TP-Link Archer AX23",
     price: 4490,
-    tags: ["роутер", "tplink", "до_5000", "wi-fi6", "двухдиапазонный"],
+    tags: ["роутер", "tplink", "до_5000", "wi-fi6", "двухдиапазонный", "пк"],
     image: images["../assets/products/tplink_ax23.jpg"]
   },
   {
     id: "product026",
     name: "МФУ HP Laser MFP 135a",
     price: 16990,
-    tags: ["принтер", "hp", "до_20000", "лазерный", "мфу"],
+    tags: ["принтер", "hp", "до_20000", "лазерный", "мфу", "пк"],
     image: images["../assets/products/hp_135a.jpg"]
   },
   {
@@ -196,21 +196,21 @@ export const products = [
     id: "product028",
     name: "Веб-камера Logitech C920",
     price: 7990,
-    tags: ["камера", "logitech", "до_8000", "hd", "встроенный_микрофон"],
+    tags: ["камера", "logitech", "до_8000", "hd", "встроенный_микрофон", "пк"],
     image: images["../assets/products/logitech_c920.jpg"]
   },
   {
     id: "product029",
     name: "Кулер для процессора DeepCool AK400",
     price: 3590,
-    tags: ["кулер", "deepcool", "до_4000", "120мм", "тихий"],
+    tags: ["кулер", "deepcool", "до_4000", "120мм", "тихий", "пк"],
     image: images["../assets/products/deepcool_ak400.jpg"]
   },
   {
     id: "product030",
     name: "Корпус ПК Zalman T7",
     price: 3490,
-    tags: ["корпус", "zalman", "до_4000", "mid_tower", "atx"],
+    tags: ["корпус", "zalman", "до_4000", "mid_tower", "atx", "пк"],
     image: images["../assets/products/zalman_t7.jpg"]
   },
 ]
